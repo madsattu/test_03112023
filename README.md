@@ -18,7 +18,7 @@ pip install numpy pandas matplotlib seaborn statsmodels
 
 3. Run the script.
 
-4. During the script's operation, it can be observed that the data contains incorrect month values, blank rows, negative and positive payment amounts, as well as an anomalous decrease in the payment amount for June and July 2020. After transformations, we obtain a new dataset with a forecast for the next 6 months. An interactive dashboard has also been created based on the obtained data, which is accessible via the link:
+4. During the script's operation, it can be observed that the data contains incorrect month values, blank rows, negative and positive payment amounts, as well as an anomalous decrease in the payment amount for June and July 2020. After transformations, we obtain a new dataset with a forecast for the next 6 months. An interactive dashboard has also been created in Power BI based on the obtained data, which is accessible via the link:
    `https://app.powerbi.com/view?r=eyJrIjoiMGUyMTU3NjYtN2QzOC00MWE1LWFkZWQtMzMyNWQ1OWE1OWQ0IiwidCI6IjZkYTM2NjY3LWJiYzYtNDY5Yy1hNGQ0LWQyMTY4YWJhOWY1NiIsImMiOjl9`
    
 
